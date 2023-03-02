@@ -16,8 +16,7 @@ Screen Grab:
 
 Instructions:
 
-Run the program in Xojo 2021 r1.1
- - Add Key#1 and Key#2 String in the top TextArea
+Run the program in Xojo 2022 r1.1
 - Press the Load Original button and load 300bx300b-72dpi.png picture
 - Press the Load Secret button and load Secret75x75-72dpi.png picture
 - Press Create Blended Pic button to create and then save the steganographic picture
