@@ -8,7 +8,7 @@ Steganography is the ability to hide another image, or other data that is a secr
 - Xojo API: API 2
 - Level: Advanced
 
-Code for this example is in the following methods: 1) HidePicture, and 2) RetrievePicture
+Code for this example is in the following methods: 1) HidePicture, and 2) RetrievePicture.
 
 Screen Grab:
 
